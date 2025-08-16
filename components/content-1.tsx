@@ -1,4 +1,4 @@
-import Image from 'next/image'
+import Image from "next/image"
 
 export default function ContentSection() {
     return (
@@ -50,7 +50,7 @@ export default function ContentSection() {
                                 <blockquote className="border-l-4 pl-4">
                                     <p>Learning Bitcoin on your own can take years. With the right guidance, you can understand its value, master its use, and secure your future in just a weekend.</p>
                                     <div className="mt-6 space-y-3">
-                                        <cite className="block font-medium">P'khing, โสด</cite>
+                                        <cite className="block font-medium">khing, โสด</cite>
                                         <img className="h-5 w-30" src="https://rightshift.to/wp-content/uploads/2023/04/logo_Right_Shift_text_white-2048x485.png" alt="AMD Logo" height="20" width="auto" />
                                     </div>
                                 </blockquote>
