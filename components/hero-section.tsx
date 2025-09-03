@@ -25,11 +25,11 @@ export default function HeroSection() {
                                         asChild
                                         size="lg"
                                         className="px-5 text-base">
-                                        <Link href="https://www.canva.com/design/DAGwNBaQp6M/_vNQR2CUBya55UpjFoIrwA/view?utm_content=DAGwNBaQp6M&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hf9bb004246">
+                                        <Link href="mailto:rightshift.service@gmail.com">
                                             <span className="text-nowrap">Become a sponsor</span>
                                         </Link>
                                     </Button>
-                                    <Button
+                                    {/* <Button
                                         key={2}
                                         asChild
                                         size="lg"
@@ -38,7 +38,7 @@ export default function HeroSection() {
                                         <Link href="#link">
                                             <span className="text-nowrap">get a Ticket</span>
                                         </Link>
-                                    </Button>
+                                    </Button> */}
                                 </div>
                             </div>
                             <Image
