@@ -94,7 +94,7 @@ const members = [
     {
         name: 'Juttuporn Jaiklar',
         role: 'Content Creator & Host [Right News]',
-        avatar: 'https://rightshift.to/wp-content/uploads/2025/09/IMG_20250803_182556-scaled.jpg',
+        avatar: 'https://rightshift.to/wp-content/uploads/2025/09/IMG_20250902_222223-scaled.jpg',
         link: 'https://nostree.me/npub1z7k4pffj7250eaydd3ya0v07mmzecylcq9cw5af68zu39q0k4u3qj6xre4',
     },
     {
