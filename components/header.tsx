@@ -67,18 +67,18 @@ export const HeroHeader = () => {
                                 </ul>
                             </div>
                             <div className="flex w-full flex-col space-y-3 sm:flex-row sm:gap-3 sm:space-y-0 md:w-fit">
-                                <Button
+                                {/* <Button
                                     asChild
                                     variant="outline"
                                     size="sm">
                                     <Link href="#">
                                         <span>Ticket</span>
                                     </Link>
-                                </Button>
+                                </Button> */}
                                 <Button
                                     asChild
                                     size="sm">
-                                    <Link href="https://www.canva.com/design/DAGwNBaQp6M/_vNQR2CUBya55UpjFoIrwA/view?utm_content=DAGwNBaQp6M&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hf9bb004246">
+                                    <Link href="mailto:rightshift.service@gmail.com">
                                         <span>Become a sponsor</span>
                                     </Link>
                                 </Button>
