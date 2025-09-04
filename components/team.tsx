@@ -10,7 +10,7 @@ const members = [
     {
         name: 'Maniporn Sambandaraksa',
         role: 'Co-Founder & Chief Operating Officer',
-        avatar: 'https://rightshift.to/wp-content/uploads/2025/09/team_CEO_AJ-scaled.jpg',
+        avatar: 'https://rightshift.to/wp-content/uploads/2025/09/1756892047458-scaled.jpg',
         link: 'https://nostree.me/npub1e963pmyq9q6873njkzxu279l8rh3mymxj9y5lq3x3hkeyj5s2pkqut3z4f',
     },
     {
@@ -28,7 +28,7 @@ const members = [
     {
         name: 'Naris Huajai',
         role: 'Head of Web Operations',
-        avatar: 'https://rightshift.to/wp-content/uploads/2025/09/RS_Unt.jpg',
+        avatar: 'https://rightshift.to/wp-content/uploads/2025/09/RS_PED.jpg',
         link: 'https://nostree.me/npub1ysvk3na2kzmfy3yw9mj2947srkqpm7w3m4nmhey2sdet9xg9480qjn54x4',
     },
     {
@@ -64,7 +64,7 @@ const members = [
     {
         name: 'Chanwut Norachan (DJ TAR)',
         role: 'Bitcoin Technology Product Developer',
-        avatar: 'https://rightshift.to/wp-content/uploads/2025/09/สำเนาของ-A7C03772-scaled.jpg',
+        avatar: 'https://rightshift.to/wp-content/uploads/2025/09/RS_TAR.jpg',
         link: 'https://nostree.me/npub1m008pf6d9w3hrsqwrqmg3w5rp2zjnxzrl7a5entl4nyecwdn3avsrfeuf6',
     },
     {
@@ -100,7 +100,7 @@ const members = [
     {
         name: 'Orraphan Chanson',
         role: 'Content Creator',
-        avatar: 'https://rightshift.to/wp-content/uploads/2025/09/IMG_20250803_182556-scaled.jpg',
+        avatar: 'https://rightshift.to/wp-content/uploads/2025/09/RS_NIM.jpg',
         link: 'https://nostree.me/npub1en9ma92rj4ksr64l0ed0fh9588g8mn0ht0v0m87ssx0slvgrnkasf5ws53',
     },
     {
